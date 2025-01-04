@@ -1,0 +1,11 @@
+num=int(input("Enter the value of number:"))
+pi=float(input("Enter the value of pi:"))
+name=str(input("Enter your name:"))
+comp=complex(input("Enter the complex value"))
+boolean=bool(input("Enter the boolean value:"))
+none=None
+print("The integer is",num)
+print("The float is",pi)
+print("The String is",name)
+print("The complex is",comp)
+print(none)
